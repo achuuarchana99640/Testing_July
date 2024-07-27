@@ -1,0 +1,30 @@
+{
+	"result": {
+		"policy": {
+			"documents": {
+				"currentTermDocuments": [
+					{
+						"name": "Test Data123",
+						"effectiveDate": "2021-09-27T04:01:00Z",
+						"amt": "$10/$200",
+						"premium": {
+							"amount": 0,
+							"currency": "usd"
+						},
+						"code": "sfdsfdf"
+					},
+					{
+						"name": "Test Data123",
+						"effectiveDate": "2021-09-27T04:01:00Z",
+						"amt": "$50",
+						"premium": {
+							"amount": 0,
+							"currency": "usd"
+						},
+						"code": "ewr",
+					}
+				]
+			}
+		}
+	}
+}
